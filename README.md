@@ -21,7 +21,7 @@ Otra lista ordenada:
 Enlace  a [la web del kernel](https://kernel.org)
 
 Codigo:
-- Esto es 'INSERT INTO' en formato inline
+- Esto es `INSERT INTO` en formato inline
 - Lo siguiente en un bloque de codigo
 
 ```sql

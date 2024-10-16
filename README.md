@@ -1,6 +1,10 @@
 # PRUEBAS DE BASES
 Estas son las pruebas de la asignatura de bases de datos
 
+![La mejor imagen del rap] (natos_y_waor_47539_0.png)
+
+
+
 ## Seccion
 Una lista:
 - Hola.

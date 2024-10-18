@@ -1,5 +1,6 @@
 # PRUEBAS DE BASES
 Estas son las pruebas de la asignatura de bases de datos
+Puedes ver [mis notas](directorio/mis-notas.md)
 
 ![La mejor imagen del rap](natos_y_waor_47539_0.png)
 

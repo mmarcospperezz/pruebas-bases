@@ -1,4 +1,4 @@
 #MIS NOTAS
 
 Hola, esto es **negrita**
-Puedes ir [al README principal](/README.MD)
+Puedes ir [al README principal](/README.md)
